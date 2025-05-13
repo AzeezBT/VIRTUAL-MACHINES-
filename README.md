@@ -2,7 +2,7 @@
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 
 ## NAME : SHAIK AZEEZ AHAMAD
-## REG NO : 21222411004
+## REG NO : 212223110046
 
 Aim:
 To move the files between virtual machine.
